@@ -1,0 +1,24 @@
+{
+  "name": "react-dropdown",
+  "version": "1.0.0",
+  "description": "dropdown component library",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "react",
+    "library",
+    "dropdown"
+  ],
+  "author": "gorakh ugale",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
